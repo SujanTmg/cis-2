@@ -1,1 +1,4 @@
-my changes used nano
+Team Collobartion notes
+pratice make perfect
+collborartion added
+resolved use both
